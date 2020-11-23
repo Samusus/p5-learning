@@ -7,7 +7,7 @@ let vely = 5
 let size = 10
 
 function setup() {
-  createCanvas(500, 400);
+  createCanvas(finalx, finaly);
 }
 
 function draw() {
